@@ -2,7 +2,7 @@
 stoplight-id: vy5d3e7hacw3o
 ---
 
-# Sifchain Extract Transform Load (ETL)
+# Sifchain: Extract Transform Load (ETL)
 
 Deploy your own ETL server that extracts, transforms and loads sifchain data for analytics and application developments using your own database and sif-api instance. The repository is located at: https://github.com/Sifchain/sif-etl.
 
