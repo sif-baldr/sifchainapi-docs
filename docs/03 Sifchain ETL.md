@@ -21,7 +21,9 @@ This repository is shaped as follows:
 ## Installation
 1. Install python 3
 2. Install the other tools:
-`sudo apt install python3-pip python3-virtualenv`
+```json
+sudo apt install python3-pip python3-virtualenv
+```
 
 3. Setup a virtual environment using virtualenv:
 ```json
@@ -30,16 +32,22 @@ source bin/activate
 ```
 
 4. Install the requirement packages:
-`pip3 install -r requirements.txt`
+```json
+pip3 install -r requirements.txt
+```
 
 5. Copy the dot env file and edit the new dot env file to fill up the required credentials:
-`cp -a .env-example .env`
+```json
+cp -a .env-example .env
+```
 
 
 ## Get Started
 You can now run an ETL command using the command manager with the following command line:
 
-`python3 ./src/manager.py <COMMAND>`
+```json
+python3 ./src/manager.py <COMMAND>
+```
 
 The list of command are provided in the next section.
 
