@@ -24,8 +24,10 @@ This repository is shaped as follows:
 `sudo apt install python3-pip python3-virtualenv`
 
 3. Setup a virtual environment using virtualenv:
-`virtualenv .
-source bin/activate`
+```json
+virtualenv .
+source bin/activate
+```
 
 4. Install the requirement packages:
 `pip3 install -r requirements.txt`
