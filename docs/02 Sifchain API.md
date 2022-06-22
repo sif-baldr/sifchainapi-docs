@@ -9,10 +9,10 @@ The Sif API repository can be found here: https://github.com/Sifchain/sif-apis. 
 
 You can follow the instruction and create your own database by:
 - Fetching data through setting up your own ETL processes through [sif-etl](https://github.com/Sifchain/sif-etl)
-- Populating it with the Sifchain database (you will need to ask for credentials on [Discord](https://discord.gg/ZSw72wxF)
-in the sdk-integrations [sdk-integrations channel](https://discord.gg/KWaJGzaZ) :mage:	
+- Populating it with the Sifchain database (you will need to ask for credentials on [Discord](https://discord.gg/ZSw72wxF) in the sdk-integrations [sdk-integrations channel](https://discord.gg/KWaJGzaZ)
 
-For more details, you can look at the [video tutorial](https://www.youtube.com/watch?v=2AzXeJ8xNMA&t=461s)
+For more details, you can look at the following walkthough video: [video tutorial](https://www.youtube.com/watch?v=2AzXeJ8xNMA&t=461s)
+
 ### Dependencies:
 [Node v14.17.4](https://nodejs.org/en/blog/release/v14.17.4)
 
@@ -65,7 +65,7 @@ Visualize the swagger on your browser by opening:
 or select the host you want in the Swagger UI. If you have issues, make sure the port 8080 is accessible
 
 
------That's it!-----
+**-----That's it!-----**
 
 Now you can:
 
@@ -77,6 +77,7 @@ Have fun by improving the repo through pull requests:muscle:
 
 
 And please follow the [Contribution Guidelines](https://github.com/Sifchain/sif-apis/blob/master/contribution_guidelines.md)
+
 
 **Note:**
 
