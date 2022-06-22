@@ -5,7 +5,6 @@ stoplight-id: xlr12d2f5zgd2
 # Sifchain Data API
 
 ## Overview
-
 The Sif API repository can be found here: https://github.com/Sifchain/sif-apis. In this repository, you can find all the data endpoints available for the Sifchain DEX.
 
 You can follow the instruction and create your own database by:
