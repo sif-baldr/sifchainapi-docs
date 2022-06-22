@@ -2,7 +2,7 @@
 stoplight-id: xlr12d2f5zgd2
 ---
 
-# Sifchain API
+# Sifchain Data API
 
 ## Overview
 
